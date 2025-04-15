@@ -13,4 +13,4 @@ n=2
 asize=len(a)
 reverse(a,asize,n)
 for i in range (0,asize):
-    print(a[i],end=",")
+    print(a[i],end=" ")
